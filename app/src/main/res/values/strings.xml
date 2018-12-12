@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Introduction</string>
+    <string name="default_notification_channel_id">123</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>
